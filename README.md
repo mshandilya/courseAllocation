@@ -1,7 +1,5 @@
 # Course Allocation to Students based on preferences
 This repository contains the implementation of the algorithm that was used for the allocation of courses (from the Humanities department) to students in IIT Gandhinagar. The Course Allocation System is designed to efficiently allocate courses to students based on their preferences, utilizing a modified version of the hospital resident matching algorithm. To uphold data privacy standards, the data present in this repository (for demonstrative purposes) has been synthetically generated.<br/><br/>
-<img align="center" src="https://images.unsplash.com/photo-1545987796-200677ee1011?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" alt="An abstract art image demonstrating conventional intuition for matching algorithms" title="An abstract art image demonstrating conventional intuition for matching algorithms"/><br/>
-*<p align="center">An abstract art image demonstrating conventional intuition for matching algorithms</p>*<br/><br/>
 
 ## Features
 - **Preference-Based Allocation**: Allocates courses to students strictly based on their ranked preferences.
@@ -17,7 +15,7 @@ The system modifies the hospital resident matching algorithm to suit course allo
 - The [allocation.ipynb](/allocation.ipynb) file contains the Jupyter notebook that contains details about the allocation and the source code for the same.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or feedback, please open an issue in the GitHub repository, or directly contact the me via [email](mailto:mrigankashekhar.shandilya@iitgn.ac.in).
